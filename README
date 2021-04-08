@@ -1,0 +1,8 @@
+
+Pour compiler le code il faut tapper la commande "make" dans le fichier correspondant.
+
+
+Pour éxécuter le code il faut tapper la commande ./puissance4 dans le fichier correspondant.
+
+
+Pour générer le doxyFile il faut tapper la commande "doxygen doxyFile" dans le fichier correspondant.
